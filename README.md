@@ -51,6 +51,7 @@
 
 <p align="left">Lexi: A Conversational Chatbot<br><br>Description: A chatbot named Lexi built using `ChatterBot`, `Spacy`, and `pyttsx3`.<br>-Tech Stack: Python, `ChatterBot`, `Spacy`, `pyttsx3`</p>
 
+<p>https://github.com/Siyamthanda-Miya/LEXI-chatbot</p>
 ###
 
 <div align="center">
