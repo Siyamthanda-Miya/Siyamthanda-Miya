@@ -47,7 +47,7 @@
 
 <h3 align="left">📚 Projects</h3>
 
-###
+
 
 <p align="left">Lexi: A Conversational Chatbot<br><br>Description: A chatbot named Lexi built using ChatterBot, Spacy, and pyttsx3.<br>-Tech Stack: Python, ChatterBot, Spacy, pyttsx3</p>
 
