@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello! I'm Miya👋</h1>
+<h1 align="center">Hello! I'm Divine👋</h1>
 
 ###
 
